@@ -2,9 +2,9 @@ package questao2;
 
 public class ParesDeDiferenca {
 
-	int[] vetor = {};
-	int inteiroQualquer = 0;
-	int paresExistentes;
+	private int[] vetor = {};
+	private int inteiroQualquer = 0;
+	private int paresExistentes;
 	
 	
 	public ParesDeDiferenca(int[] vetor, int inteiroQualquer) { //Construtor da classe onde eu recebo o vetor para verificar

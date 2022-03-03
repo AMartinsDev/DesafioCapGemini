@@ -8,9 +8,9 @@ IDE Eclipse;<br>
 Sem uso de bibliotecas externas;
 
 ## Como rodar:
-Clone este repositório.
-As resoluções e seus respectivos packages, estão na pasta "src".
-Pode-se utilizar uma IDE com compatibilidade Java 11+ 
+Clone este repositório.<br>
+As resoluções e seus respectivos packages, estão na pasta "src".<br>
+Pode-se utilizar uma IDE com compatibilidade Java 11+ <br>
 Ou pode-se executar no terminal.
 
 -------------------------------------------------------------------------------------

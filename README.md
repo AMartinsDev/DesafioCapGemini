@@ -1,10 +1,10 @@
-# DesafioCapGemini - 2022 TURMA B 
+# DesafioCapGemini 2022 - Turma B.
 
 ## Os algoritmos a seguir, foram feitos para o desafio da Academia CapGemini 2022 - Turma B.
 
 ## Tecnologias utilizadas:
-Linguagem Java;
-IDE Eclipse;
+Linguagem Java;<br>
+IDE Eclipse;<br>
 Sem uso de bibliotecas externas;
 
 ## Como rodar:
